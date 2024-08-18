@@ -2,7 +2,7 @@
 
 ## Description
 
-The Warframe Companion aweb-based tool designed to help players manage and track their Warframes, weapons, and other in-game items. The app allows users to easly search for and filter items, view detailed information, and keep track of their in-game progress.
+The Warframe Companion is a web-based tool designed to help players manage and track their Warframes, weapons, and other in-game items. The app allows users to easly search for and filter items, view detailed information, and keep track of their in-game progress.
 
 For a more in-depth project overview, refer to the [Project Overview](documentation/ProjectOverview.md) in the documentation folder.
 
