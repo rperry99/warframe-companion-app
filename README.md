@@ -2,9 +2,9 @@
 
 ## Description
 
-The Warframe Companion App is a web-based tool designed to help players manage and track their warframes, weapons, and other Codex-related items. This project came about while I am trying to complete my Codex. The "Codex" in warframe is essentially a checklist of items you need to collect and master to rank up your Mastery in the game. I find the completion of the Codex to be the most fun part about the game.
+The Warframe Companion aweb-based tool designed to help players manage and track their Warframes, weapons, and other in-game items. The app allows users to easly search for and filter items, view detailed information, and keep track of their in-game progress.
 
-The problem comes with keeping track of what I need. There's a game mode called Void Fissures. This is where you "crack relics" to obtain pieces to the "Prime" versions of weapons and warframes. You have 15 seconds upon completing a Void Fissure to select the item you want. The UI in the game does not easily let you know what you do and don't need. If you have the blueprint (unbuilt), you will see a checkmark (and a number if you have more than one). However, if you build it, you will no longer see that you have the item. I often end up taking an item I no longer need. Another thing these item selection screens on the Void Fissure missions doesn't tell you is if you already mastered the weapon.
+For a more in-depth project overview, refer to the [Project Overview](documentation/ProjectOverview.md) in the documentation folder.
 
 ## Features
 
